@@ -62,6 +62,7 @@ Here's a partial list of facilities for Windsor offered by different other proje
 * [SolrSharp](http://bugsquash.blogspot.com/2008/07/castle-facility-for-solrsharp.html)
 * [Windows Fax Services](http://bugsquash.blogspot.com/2008/01/castle-facility-for-windows-fax.html)
 * [App Config Facility](https://github.com/adamconnelly/WindsorAppConfigFacility)
+* [Interface Splitting Facility](https://github.com/lukas-lansky/InterfaceSplittingFacility)
 
 ### See also
 
